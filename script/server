@@ -2,5 +2,5 @@
 
 set -e
 
-I am trying making a change!
+I am trying making another change!
 bundle exec jekyll serve "$@"
